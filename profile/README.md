@@ -46,11 +46,28 @@
 
 ![erd](https://user-images.githubusercontent.com/79897135/224329255-8a880e52-f79c-459a-b033-a7da57703759.png)
 
+<hr>
+
+**프로젝트 개요** <br>
+> - 고가의 상품을 선물할 때  펀딩 방식을 통해 개인이 원하는 만큼 모금하여 부담 없이 선물할 수 있는 플랫폼
+
+**기획배경** <br>
+  
+> - 내가 아끼고 좋아하는 사람들을 위해 선물을 주는 것은 너무 기쁜 일이지만, 받는 사람은 선물 가격이 비싸다면 선뜻 의사를 밝히기 어렵고, 선물을 주는 사람 또한 흔한 선물보다는 의미 있는 값진 선물을 주고 싶은 경우가 많습니다.
+> - 따라서 고가의 상품을 선물할 때 **펀딩 방식**을 통해 참여자 별 부담 가능한 금액을 모금하여 전달하는 플랫폼을 기획하였습니다.
+
+**해결방법**
+> - 특정 대상(받는 사람)을 지정하여 참여자들의 펀딩 목적을 뚜렷하게 하고, 참여 금액은 자유롭게 설정할 수 있도록 하여 원하는 예산 내에서 선물에 동참할 수 있는 기회를 제공할 것입니다.
+> - 친구 목록에 등록된 사용자라면 해당 사용자가 받고 싶어하는 선물 목록을 확인한 후, 펀딩을 통해 진행하고자 하는 선물의 선택의 폭을 줄일 수 있는 기회를 제공할 수 있습니다.
+> - 해당 펀딩이 진행되는 링크를 통해 친구가 아니어도, 사용자들은 펀딩에 참여할 수 있기 때문에 선물을 할 수 있는 기회를 확대할 수 있습니다.
+
+**Demo link** <br>
+> [프로젝트 데모영상 링크](https://youtu.be/IbfWnYwOlSs)
 
 ## 팀원소개
-- 원세영(Back-end) https://github.com/seyoung5744
-- 김선범(Back-end) https://github.com/Kim-SeonBeom
-- 백동주(Back-end) https://github.com/paik-dongjoo
-- 고동우(Back-end) https://github.com/Ko-udon
-- 박주경(Front-end) https://github.com/trustmitt
-- 조혜준(Front-end) https://github.com/chj950807
+> - 원세영(Back-end) https://github.com/seyoung5744
+> - 김선범(Back-end) https://github.com/Kim-SeonBeom
+> - 백동주(Back-end) https://github.com/paik-dongjoo
+> - 고동우(Back-end) https://github.com/Ko-udon
+> - 박주경(Front-end) https://github.com/trustmitt
+> - 조혜준(Front-end) https://github.com/chj950807
